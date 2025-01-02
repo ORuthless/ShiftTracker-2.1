@@ -1,3 +1,7 @@
+![image](https://github.com/user-attachments/assets/2c2a5e76-790e-4f08-b21b-0096a179ec4e)
+![image](https://github.com/user-attachments/assets/44b4310d-e5af-4226-9b69-500a0d3df768)
+
+
 # ShiftTracker-2.1
 "New Simple Powershell- OSRS Blast Furnace / Cannon Ball -  Shift Tracker - Profit Tracker - Cost Tracker - Acc Managment ( Efficiency Tool )
 
